@@ -1,1 +1,1 @@
-![Image of Myself](./image/saurabh.jpg)
+![Image of Myself](/image/saurabh.jpg)
